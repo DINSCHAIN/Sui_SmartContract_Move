@@ -14,10 +14,10 @@ cargo install --locked --git https://github.com/MystenLabs/sui.git --branch devn
 sui --version
 
 # 5. Install Node.js (if not already installed)
-# Download from https://nodejs.org/ or use package manager:
-# Ubuntu/Debian: sudo apt install nodejs npm
-# macOS: brew install node
-# Windows: Download from nodejs.org
+//Download from https://nodejs.org/ or use package manager:
+//Ubuntu/Debian: sudo apt install nodejs npm
+//macOS: brew install node
+//Windows: Download from nodejs.org
 
 # 6. Verify Node.js installation
 node --version
