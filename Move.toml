@@ -10,3 +10,5 @@ Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-fram
 tesla_token = "0x0"
 sui = "0x2"
 std = "0x1"
+step1_coin = "0x0"
+step1_coin_test = "0x0"
