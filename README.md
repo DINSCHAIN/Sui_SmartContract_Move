@@ -22,3 +22,20 @@ sui --version
 # 6. Verify Node.js installation
 node --version
 npm --version# Sui_SmartContract_Move
+
+
+FOR SUI Faucet USe this :
+
+https://faucet.sui.io/?address=0xb4370b8f76c5b25f6383716429350aa3cb44853bf6b1c9991016e2c649ae5fb4
+
+
+ sui move new tesla_token --path .
+
+
+Deployment Steps
+sui move build
+sui move test
+
+# Deploy when ready
+sui client publish --gas-budget 100000000
+ 
